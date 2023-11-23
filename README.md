@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ajibade-droid
+- 👋 Hi, I’m Ajibade Oyeyiola
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on projects 
